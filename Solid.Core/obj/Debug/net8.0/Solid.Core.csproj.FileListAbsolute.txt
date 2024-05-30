@@ -1,0 +1,23 @@
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.deps.json
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\refint\Solid.Core.dll
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Desktop\פייתון מתקדם שעורי ב\שעור 1\Solid.API\Solid.Core\obj\Debug\net8.0\ref\Solid.Core.dll
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\refint\Solid.Core.dll
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Desktop\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.deps.json
+C:\Users\user1\Desktop\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Desktop\Solid.API\Solid.Core\bin\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\ref\Solid.Core.dll
+C:\Users\user1\Desktop\Solid.API\Solid.Core\obj\Debug\net8.0\Solid.Core.csproj.AssemblyReference.cache
